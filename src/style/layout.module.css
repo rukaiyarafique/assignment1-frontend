@@ -1,0 +1,12 @@
+h1 .home {
+  color: blue;
+  background-color: rgb(235, 230, 230);
+  font-style: normal;
+}
+
+h1 .product {
+  color: green;
+  background-color: rgb(235, 230, 230);
+  font-style: normal;
+  padding-left: 20px;
+}
